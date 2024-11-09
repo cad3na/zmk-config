@@ -21,5 +21,3 @@ include:
     shield: settings_reset
   - board: seeeduino_xiao_ble
     shield: sofle_dongle
-  - board: seeduino_xiao_ble
-    shield: settings_reset
