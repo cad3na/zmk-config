@@ -18,6 +18,8 @@ include:
   - board: nice_nano_v2
     shield: sofle_right
   - board: nice_nano_v2
-    shield: settings_reset
+    shield: nano_reset
   - board: seeeduino_xiao_ble
     shield: sofle_dongle
+  - board: seeduino_xiao_ble
+    shield: dongle_reset
